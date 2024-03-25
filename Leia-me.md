@@ -84,3 +84,27 @@ e retorna o Nésimo maior valor na lista de números. Por exemplo, se N for 1, r
  IMC = 21.9 
  Classificação = Obesidade
  
+
+26 - Função RECURSIVA.
+
+27 - Função recursiva potencia (a,b)
+potencia(a,b) = a * potencia(a,b-1)
+caso base: potencia(a, 0) = 1
+
+
+28 - Funcão interativa da função anterior
+Potencia (a,b) = a * a * a ..., b vezes
+
+29 - Função Lambda 
+
+30 - Função para Calcular raiz quadrada
+
+31 - Função para calcular a hipotenusa de triângulo retângulo de catetos A e B.
+
+32 - Função para resolver a equação de 2º grau. 
+
+33 - Função para somar todos os numeros do intervalo de um enésimo  termo.
+
+34 - Função para calcular a sequencia de fibonacci de um enésimo  termo. 
+
+35 - Função para calcular o PI.
